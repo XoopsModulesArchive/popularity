@@ -1,0 +1,28 @@
+INSTALL - ENGLISH
+choose your phpnuke version,
+place the folder in your modules folder
+activate it in your admin panel
+
+Then (VERY IMPORTANT) for have a good check for google,
+you must enter your own key code for API request!
+It's free for have one in 10 secondes ! Go on 
+https://www.google.com/accounts/NewAccount?continue=http://api.google.com/createkey&followup=http://api.google.com/createkey
+then in your mail you will have your keycode,
+edit modules/Popularity/index.php on line 1400
+and replace the temporary key by your key !
+
+=====================
+INSTALLATION - FRENCH
+Choisissez votre version de phpnuke,
+placez le dossier du module dans le dossier modules de votre site
+et activez le module dans votre panneau d'admin
+
+Puis (TRES IMPORTANT) pour avoir un bon calcul pour google,
+vous devez entrer votre propre clé pour sa requete à l'API !
+C'est gratuit et ca prend 10 secondes pour l'avoir. Allez sur
+https://www.google.com/accounts/NewAccount?continue=http://api.google.com/createkey&followup=http://api.google.com/createkey
+et apres par mail vous allez recevoir votre clé,
+editez modules/Popularity/index.php à la ligne 1399
+et remplacez la clé temporaire par la votre !
+======================
+Adapté pour xoops par http://www.inconnueteam.net 03/2004
